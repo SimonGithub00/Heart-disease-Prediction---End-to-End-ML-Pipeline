@@ -1,9 +1,18 @@
-﻿pandas
-numpy
-scikit-learn
-matplotlib
-mlflow
-feast
-joblib
-scipy
-pytest
+# Core scientific stack
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.11.4
+matplotlib==3.8.4
+
+# ML
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# Experiment tracking
+mlflow==2.13.2
+
+# Feature store
+feast==0.43.1
+
+# Testing
+pytest==8.2.1
