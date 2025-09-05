@@ -1,0 +1,9 @@
+﻿pandas
+numpy
+scikit-learn
+matplotlib
+mlflow
+feast
+joblib
+scipy
+pytest
