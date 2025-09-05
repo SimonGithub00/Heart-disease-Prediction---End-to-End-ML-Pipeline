@@ -1,4 +1,4 @@
-# Heart Disease – End-to-End ML Pipeline
+# Heart Disease Prediction – End-to-End ML Pipeline
 
 This repo contains an end-to-end machine-learning workflow for heart-disease prediction, from data prep all the way to monitoring and drift checks. It’s deliberately “production-minded”: tests, MLflow logging, (optional) Feast feature store definitions, containerization, and deployment steps are included.
 
